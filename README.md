@@ -10,3 +10,6 @@ This project is a simple calculator that allows for addition, subtraction, multi
 
 ### Images of Application Running
 
+![](https://github.com/aaWang27/Calculator/blob/main/images/CalculatorStart.PNG?raw=true)
+
+[Video of Calculator Running](https://github.com/aaWang27/Calculator/raw/main/images/CalculatorRunning.avi)
